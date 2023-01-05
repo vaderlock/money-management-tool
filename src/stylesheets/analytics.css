@@ -1,0 +1,50 @@
+/* CSS for the Analytics  */
+.total-transactions {
+  box-shadow: 0 0 0 1px #e1e1e1;
+  padding: 20px;
+  width: 350px;
+  background-color: rgb(231, 203, 168);
+  border-radius: 5px;
+}
+
+.total-turnover {
+  box-shadow: 0 0 0 1px #e1e1e1;
+  padding: 20px;
+  width: 350px;
+  background-color: rgb(231, 203, 168);
+  border-radius: 5px;
+}
+.income-categories {
+  box-shadow: 0 0 0 1px #e1e1e1;
+  padding: 20px;
+  background-color: #c9dfcb;
+  border-radius: 5px;
+}
+.expence-categories {
+  box-shadow: 0 0 0 1px #e1e1e1;
+  padding: 20px;
+  background-color: #98d0c9;
+  border-radius: 5px;
+}
+.card-title {
+  font-size: 20px;
+  font-weight: 600;
+  color: rgb(71, 71, 71);
+}
+
+.anals {
+  position: fixed;
+  left: 30%;
+  top: 30%;
+}
+
+.total-turnover {
+  margin-right: 100px;
+}
+
+.total-transactions {
+}
+
+p {
+  color: #3e3e3e;
+}
